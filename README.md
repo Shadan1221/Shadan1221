@@ -25,7 +25,7 @@ A motivated B.Tech CSE student specializing in <b>Cloud Computing and Virtualiza
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:shadantaiyabi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/email.svg" alt="email" height="30" width="40" /></a>
 </p>
 <br />
@@ -57,11 +57,11 @@ A motivated B.Tech CSE student specializing in <b>Cloud Computing and Virtualiza
 
 <h3 align="left">🏆 Highlights</h3>
 <ul>
-  <li><b>Team Lead - SIH 2025:</b> Secured Top 45 shortlisted teams for "Nagar Rakshak", a civic issue reporting app.</li>
-  <li><b>AWS Academy Graduate:</b> Cloud Foundations certified.</li>
-  <li><b>Rank 3614:</b> TCS CodeVita Season 12.</li>
+  [cite_start]<li><b>Team Lead - SIH 2025:</b> Secured Top 45 shortlisted teams for "Nagar Rakshak", a civic issue reporting app[cite: 33, 35].</li>
+  [cite_start]<li><b>AWS Academy Graduate:</b> Cloud Foundations certified[cite: 57].</li>
+  [cite_start]<li><b>Rank 3614:</b> TCS CodeVita Season 12[cite: 56].</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadan1221&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="github-stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shadan1221&show_icons=true&locale=en" alt="github-stats" /></p>
