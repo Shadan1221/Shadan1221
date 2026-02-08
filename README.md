@@ -63,3 +63,9 @@
   <img src="https://streak-stats.demolab.com?user=Shadan1221&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=Shadan1221&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shadan1221/Shadan1221/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+</div>
