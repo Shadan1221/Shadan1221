@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ahmad Shadan Taiyabi</h1>
+<div align="center">
+  <img src="hello.gif" alt="Hello" width="320" />
+</div>
 <h3 align="center">Cloud • AI/ML • Full Stack Developer ☁️</h3>
 
 ###
@@ -7,12 +10,6 @@
   <img src="https://skillicons.dev/icons?i=java" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" />
   <img width="12" />
